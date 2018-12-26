@@ -5,7 +5,8 @@ A database of JA3 Fingerprints in JSON format.
 
 The original sources of these prints can be found as comments.  If you come across prints not seen in the list, please submit a pull request. 
 
-For more about JA3 :  https://github.com/salesforce/ja3  
+* For more about JA3 :  https://github.com/salesforce/ja3  
+* For JA3 App for TrisulNSM : TLS-Print app https://github.com/trisulnsm/apps/tree/master/analyzers/tls-print
 
 Changes
 ========
